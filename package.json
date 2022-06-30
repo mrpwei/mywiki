@@ -1,5 +1,6 @@
 {
   "name": "mywiki",
+  "homepage": "https://mrpwei.github.io/mywiki",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
